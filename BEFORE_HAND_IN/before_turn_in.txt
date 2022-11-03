@@ -1,0 +1,9 @@
+Check before hand-in:
+compile with> cc -Wall -Wextra -Werror
+subject.pdf> proper directory and file naming
+		   > proper file turned in
+norminette -R -CheckForbiddenSourceHeader
+fix norminette mistakes
+git add only the specific files from the assignments
+git commit (either separately for each exercise, or all together)
+git push
